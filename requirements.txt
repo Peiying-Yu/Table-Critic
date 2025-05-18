@@ -1,0 +1,6 @@
+fire
+numpy
+pandas
+tqdm
+openai==1.57.0
+pylcs
