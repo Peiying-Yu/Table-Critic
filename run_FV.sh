@@ -1,7 +1,7 @@
-base_url='https://dashscope.aliyuncs.com/compatible-mode/v1'
-openai_api_key='sk-0a97bb2f44e44bcf8647a418705759a1'
+base_url=''
+openai_api_key=''
 model_name='qwen2.5-72b-instruct'
-first_n=20
+first_n=-1
 
 thought_results_dir='results/thought/tabfact'
 refine_results='results/refine/tabfact'
