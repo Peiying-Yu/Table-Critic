@@ -1,6 +1,6 @@
 # Table-Critic
 
-Code for paper [Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning](https://arxiv.org/abs/2502.11799).
+Code for paper [Table-Critic(ACL 2025 Main)](https://arxiv.org/abs/2502.11799).
 
 
 ## Environment
