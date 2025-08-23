@@ -1,6 +1,6 @@
 # Table-Critic
 
-Code for paper [Table-Critic(ACL 2025 Main)](https://arxiv.org/abs/2502.11799).
+Code for paper [Table-Critic(ACL 2025 Main)](https://aclanthology.org/2025.acl-long.853.pdf).
 
 
 ## Environment
@@ -45,10 +45,23 @@ Add `base_url`, `model_name`, `openai_key` to both the `run_QA.sh` and the `run_
 ## Citation
 
 ```
-@article{yu2025table,
-  title={Table-critic: A multi-agent framework for collaborative criticism and refinement in table reasoning},
-  author={Yu, Peiying and Chen, Guoxin and Wang, Jingjing},
-  journal={arXiv preprint arXiv:2502.11799},
-  year={2025}
+@inproceedings{yu-etal-2025-table,
+    title = "Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning",
+    author = "Yu, Peiying  and
+      Chen, Guoxin  and
+      Wang, Jingjing",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.853/",
+    doi = "10.18653/v1/2025.acl-long.853",
+    pages = "17432--17451",
+    ISBN = "979-8-89176-251-0"
 }
 ```
